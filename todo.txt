@@ -1,0 +1,3 @@
+git
+
+It's all done in Python with a couple of external modules for specific bits: numpy for number stuff and PIL/aggdraw for the creation of the image. The data is scraped from the web (with Beautiful Soup).
